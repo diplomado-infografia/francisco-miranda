@@ -14,6 +14,7 @@
 	.st8{fill:#F4E6D2;stroke:#CC1719;stroke-width:2.6606;stroke-miterlimit:10;}
 	.st9{fill:#CC1719;}
 	.st10{fill:none;stroke:#1E1E1C;stroke-width:2;stroke-miterlimit:10;}
+	.st11{font-size:5.83px;}
 </style>
 <g>
 	<line class="st0" x1="204.7" y1="25.6" x2="221.6" y2="25.6"/>
@@ -49,7 +50,7 @@
 		<text transform="matrix(1 0 0 1 158.0748 205.9741)" class="st2 st3 st6">1951</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 158.0748 291.9606)" class="st2 st3 st6">1975</text>
+		<text transform="matrix(1 0 0 1 158.0748 280.9072)" class="st2 st3 st6">1973</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 158.0748 377.9475)" class="st2 st3 st6">2000</text>
@@ -70,6 +71,8 @@
 		<ellipse class="st8" cx="199.7" cy="454" rx="5.5" ry="5.6"/>
 	</g>
 	<ellipse class="st9" cx="199.7" cy="25.6" rx="5.5" ry="5.6"/>
+	<line class="st0" x1="204.7" y1="277.4" x2="221.6" y2="277.4"/>
+	<ellipse class="st9" cx="199.7" cy="277.4" rx="5.5" ry="5.6"/>
 	<g>
 		<circle class="st10" cx="199.7" cy="62.7" r="5"/>
 		<line class="st7" x1="204.7" y1="62.7" x2="248.5" y2="62.7"/>
@@ -84,6 +87,12 @@
 	<g>
 		<circle class="st10" cx="199.7" cy="436.8" r="5"/>
 		<line class="st7" x1="194.7" y1="436.8" x2="168.9" y2="436.8"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 230.9783 277.6249)" class="st2 st3 st4">1</text>
+		<text transform="matrix(1 0 0 1 236.5933 274.2949)" class="st2 st3 st11">er</text>
+		<text transform="matrix(1 0 0 1 241.655 277.6249)" class="st2 st3 st4"> Mundial de Natación</text>
+		<text transform="matrix(1 0 0 1 230.9783 288.3849)" class="st2 st3 st4">Serbia, Yugoslavia</text>
 	</g>
 </g>
 </svg>
