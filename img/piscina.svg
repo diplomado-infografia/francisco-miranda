@@ -85,7 +85,7 @@
 						c-14.6,0-14.6,2.6-29.1,2.6s-14.6-2.6-29.1-2.6"/>
 				</g>
 				<g>
-					<path class="st5" d="M835.9,452.2c-3.5-0.6-7.2-1.2-14.2-1.2c-14.6,0-14.6,2.6-29.1,2.6s-14.6-2.6-29.1-2.6
+					<path class="st5" d="M835.9,452.2c-3.5-0.6-7.2-1.2-14.2-1.2c-14.6,0-14.6,2.6-29.1,2.6S778,451,763.5,451
 						c-14.6,0-14.6,2.6-29.1,2.6s-14.6-2.6-29.1-2.6"/>
 				</g>
 				<g>
@@ -148,14 +148,13 @@
 		<line class="st4" x1="795.3" y1="452.1" x2="805.8" y2="452.1"/>
 	</g>
 	<g>
-		<path d="M64,423.3c0-0.1,0-0.2-0.1-0.3c0,0,0-0.1-0.1-0.1l0,0c0-0.1-0.1-0.1-0.1-0.2c-0.1-0.1-0.2-0.2-0.3-0.2c0,0,0,0,0,0
-			c-0.1,0-0.2-0.1-0.3-0.1c-7.6-1.3-7.6-1.3-7.6-1.3c0,0-0.1,0-0.1,0c-0.1,0-0.2,0-0.2,0c-0.1,0-0.1,0-0.1,0.1
-			c-0.1,0-0.2,0.1-0.2,0.1c-0.1,0-0.1,0.1-0.2,0.2c-0.1,0.1-0.1,0.1-0.1,0.2c0,0.1-0.1,0.1-0.1,0.2c0,0,0,0,0,0.1c0,0.1,0,0.2,0,0.2
-			v0.7c0,0,0,1.3,0,1.3c0,0.1,0,0.1,0,0.2c0,0.1,0.1,0.2,0.1,0.3c0,0.1,0.1,0.1,0.1,0.2c0,0,0.1,0.1,0.1,0.1c0,0,0.1,0.1,0.1,0.1
-			c0.1,0.1,0.1,0.1,0.2,0.1c0.1,0,0.1,0.1,0.2,0.1c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.6,0,1.2,0,1.7,0l-0.2,3H56c-0.6,0-1,0.4-1,1
-			v1c0,0.6,0.4,1,1,1h4.3c0.6,0,1-0.4,1-1v-1c0-0.6-0.4-1-1-1h-0.5l0.2-3c2,0,2.6,0,2.8,0v0c0,0,0.1,0,0.1,0c0,0,0,0,0,0v0
-			c0,0,0.1,0,0.1,0h0c0.1,0,0.2-0.1,0.2-0.1l0,0c0.1,0,0.1-0.1,0.2-0.1l0,0c0.1-0.1,0.1-0.1,0.2-0.2c0,0,0.1-0.1,0.1-0.2
-			c0-0.1,0.1-0.2,0.1-0.2c0-0.1,0-0.2,0-0.3v-0.6C64,423.5,64,423.4,64,423.3z"/>
+		<path d="M64,423.3c0-0.1,0-0.2-0.1-0.3c0,0,0-0.1-0.1-0.1l0,0c0-0.1-0.1-0.1-0.1-0.2c-0.1-0.1-0.2-0.2-0.3-0.2l0,0
+			c-0.1,0-0.2-0.1-0.3-0.1c-7.6-1.3-7.6-1.3-7.6-1.3h-0.1c-0.1,0-0.2,0-0.2,0c-0.1,0-0.1,0-0.1,0.1c-0.1,0-0.2,0.1-0.2,0.1
+			c-0.1,0-0.1,0.1-0.2,0.2c-0.1,0.1-0.1,0.1-0.1,0.2s-0.1,0.1-0.1,0.2c0,0,0,0,0,0.1s0,0.2,0,0.2v0.7v1.3c0,0.1,0,0.1,0,0.2
+			s0.1,0.2,0.1,0.3c0,0.1,0.1,0.1,0.1,0.2l0.1,0.1l0.1,0.1c0.1,0.1,0.1,0.1,0.2,0.1c0.1,0,0.1,0.1,0.2,0.1c0.1,0,0.1,0,0.2,0h0.1
+			c0.6,0,1.2,0,1.7,0l-0.2,3H56c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1h4.3c0.6,0,1-0.4,1-1v-1c0-0.6-0.4-1-1-1h-0.5l0.2-3
+			c2,0,2.6,0,2.8,0l0,0h0.1l0,0l0,0H63l0,0c0.1,0,0.2-0.1,0.2-0.1l0,0c0.1,0,0.1-0.1,0.2-0.1l0,0c0.1-0.1,0.1-0.1,0.2-0.2
+			c0,0,0.1-0.1,0.1-0.2s0.1-0.2,0.1-0.2c0-0.1,0-0.2,0-0.3v-0.6C64,423.5,64,423.4,64,423.3z"/>
 	</g>
 </g>
 <g>
@@ -418,11 +417,17 @@
 	</g>
 </g>
 <rect x="95.1" y="31.4" class="st13" width="116.7" height="38"/>
-<text transform="matrix(1 0 0 1 95.0648 38.8733)"><tspan x="0" y="0" class="st16 st20">Banderines a 5 metros </tspan><tspan x="0" y="12" class="st16 st20">que indican el viraje en </tspan><tspan x="0" y="24" class="st16 st20">estilo Espalda.</tspan></text>
+<text transform="matrix(1 0 0 1 95.0648 38.8733)" class="st16 st20">Banderines a 5 metros </text>
+<text transform="matrix(1 0 0 1 95.0648 50.8733)" class="st16 st20">que indican el viraje en </text>
+<text transform="matrix(1 0 0 1 95.0648 62.8733)" class="st16 st20">estilo Espalda.</text>
 <rect x="100.2" y="347.9" class="st13" width="116.7" height="38"/>
-<text transform="matrix(1 0 0 1 100.186 355.3509)"><tspan x="0" y="0" class="st16 st20">Poyete de salida desde </tspan><tspan x="0" y="12" class="st16 st20">donde los nadadores </tspan><tspan x="0" y="24" class="st16 st20">saltan al agua.</tspan></text>
+<text transform="matrix(1 0 0 1 100.186 355.3509)" class="st16 st20">Poyete de salida desde </text>
+<text transform="matrix(1 0 0 1 100.186 367.3509)" class="st16 st20">donde los nadadores </text>
+<text transform="matrix(1 0 0 1 100.186 379.3509)" class="st16 st20">saltan al agua.</text>
 <rect x="375.4" y="31.4" class="st13" width="116.7" height="38"/>
-<text transform="matrix(1 0 0 1 375.363 38.8733)"><tspan x="0" y="0" class="st16 st20">Cuerda de partida falsa a </tspan><tspan x="0" y="12" class="st16 st20">15 metros de la salida. Se </tspan><tspan x="0" y="24" class="st16 st20">deja caer sobre el agua.</tspan></text>
+<text transform="matrix(1 0 0 1 375.363 38.8733)" class="st16 st20">Cuerda de partida falsa a </text>
+<text transform="matrix(1 0 0 1 375.363 50.8733)" class="st16 st20">15 metros de la salida. Se </text>
+<text transform="matrix(1 0 0 1 375.363 62.8733)" class="st16 st20">deja caer sobre el agua.</text>
 <g>
 	<g>
 		<path class="st18" d="M533.5,43.9c-14,0.9-25.1,12.5-25.1,26.8v71.4"/>
@@ -432,7 +437,9 @@
 	</g>
 </g>
 <rect x="542.2" y="31.4" class="st13" width="147.4" height="69.1"/>
-<text transform="matrix(1 0 0 1 542.217 38.8733)"><tspan x="0" y="0" class="st16 st20">Calle o carril, tiene 2.5 metros de </tspan><tspan x="0" y="12" class="st16 st20">ancho. En finales y semifinales </tspan><tspan x="0" y="24" class="st16 st20">se utilizan del 1 al 8.</tspan></text>
+<text transform="matrix(1 0 0 1 542.217 38.8733)" class="st16 st20">Calle o carril, tiene 2.5 metros de </text>
+<text transform="matrix(1 0 0 1 542.217 50.8733)" class="st16 st20">ancho. En finales y semifinales </text>
+<text transform="matrix(1 0 0 1 542.217 62.8733)" class="st16 st20">se utilizan del 1 al 8.</text>
 <g>
 	<g>
 		<path class="st18" d="M756.5,43.9c-14,0.9-25.1,12.5-25.1,26.8v87"/>
@@ -442,7 +449,10 @@
 	</g>
 </g>
 <rect x="783.4" y="31.4" class="st13" width="104.1" height="69.1"/>
-<text transform="matrix(1 0 0 1 783.4224 38.8733)"><tspan x="0" y="0" class="st16 st20">Almoadillas de presión </tspan><tspan x="0" y="12" class="st16 st20">que registra el tiempo </tspan><tspan x="0" y="24" class="st16 st20">en la llegada o en cada </tspan><tspan x="0" y="36" class="st16 st20">viraje.</tspan></text>
+<text transform="matrix(1 0 0 1 783.4224 38.8733)" class="st16 st20">Almoadillas de presión </text>
+<text transform="matrix(1 0 0 1 783.4224 50.8733)" class="st16 st20">que registran el tiempo </text>
+<text transform="matrix(1 0 0 1 783.4224 62.8733)" class="st16 st20">en la llegada o en cada </text>
+<text transform="matrix(1 0 0 1 783.4224 74.8733)" class="st16 st20">viraje.</text>
 <g>
 	<polygon class="st19" points="516.3,162.2 504.4,162.2 503.3,153.3 515,153.3 	"/>
 	<polygon class="st19" points="518.6,177.6 506.2,177.6 505.1,168.5 517.2,168.5 	"/>
