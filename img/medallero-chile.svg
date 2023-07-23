@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#1D1D1B;}
+	.st2{font-family:'Roboto-Light';}
+	.st3{font-size:24px;}
+	.st4{font-family:'Roboto-Regular';}
+	.st5{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#D0D0D0;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st7{fill:#F96A33;}
+	.st8{fill:#F9AE33;}
+	.st9{fill:#B4B4B3;}
+</style>
+<g>
+	<rect x="50.8" y="31.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.9416 84.3057)" class="st0" width="98" height="31"/>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 66.9334 83.3186)" class="st1 st2 st3">1.500 m</text>
+	
+		<rect x="111.5" y="37.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 6.9928 122.8936)" class="st0" width="80.7" height="31"/>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 125.0747 83.3175)" class="st1 st2 st3">800 m</text>
+	
+		<rect x="172.4" y="37.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.8434 165.9887)" class="st0" width="80.7" height="31"/>
+	<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 186.0208 83.318)" class="st1 st2 st3">400 m</text>
+	<rect x="247.6" y="127.3" class="st0" width="217" height="256.6"/>
+	<text transform="matrix(1 0 0 1 247.5703 145.3251)"><tspan x="0" y="0" class="st1 st4 st3">Lima 2019</tspan><tspan x="0" y="51.2" class="st1 st4 st3">Toronto 2015 </tspan><tspan x="0" y="102.4" class="st1 st4 st3">Guadalajara 2011</tspan><tspan x="0" y="153.6" class="st1 st4 st3">Río de Janeiro 2007</tspan><tspan x="0" y="204.7" class="st1 st4 st3">Santo Domingo 2003 </tspan></text>
+	<line class="st5" x1="215.3" y1="383.9" x2="215.3" y2="95.5"/>
+	<g>
+		<line class="st5" x1="215.3" y1="136.6" x2="231.1" y2="136.6"/>
+		<line class="st5" x1="215.3" y1="188.1" x2="231.1" y2="188.1"/>
+		<line class="st5" x1="215.3" y1="239.7" x2="231.1" y2="239.7"/>
+		<line class="st5" x1="215.3" y1="291.2" x2="231.1" y2="291.2"/>
+		<line class="st5" x1="215.3" y1="342.8" x2="231.1" y2="342.8"/>
+	</g>
+	<g>
+		<line class="st6" x1="63.9" y1="384.6" x2="63.9" y2="95.5"/>
+		<line class="st6" x1="123.4" y1="384.6" x2="123.4" y2="95.5"/>
+		<line class="st6" x1="182.9" y1="384.6" x2="182.9" y2="95.5"/>
+	</g>
+	<g>
+		<circle class="st7" cx="123.4" cy="342.8" r="16.5"/>
+	</g>
+	<g>
+		<circle class="st8" cx="123.4" cy="291.2" r="16.5"/>
+	</g>
+	<g>
+		<circle class="st9" cx="123.4" cy="188.1" r="16.5"/>
+	</g>
+	<g>
+		<circle class="st9" cx="63.9" cy="136.6" r="16.5"/>
+	</g>
+	<g>
+		<circle class="st7" cx="182.9" cy="239.7" r="16.5"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 379.8584 471.4065)" class="st1 st2 st3">Bronce</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 238.7207 471.4065)" class="st1 st2 st3">Plata</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 97.583 471.2727)" class="st1 st2 st3">Oro</text>
+			</g>
+		</g>
+		<circle class="st7" cx="345.2" cy="462.9" r="15.5"/>
+		<circle class="st9" cx="204.1" cy="462.9" r="15.5"/>
+		<circle class="st8" cx="62.9" cy="462.9" r="15.5"/>
+	</g>
+</g>
+</svg>
